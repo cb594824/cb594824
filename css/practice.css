@@ -1,0 +1,17 @@
+     /* Put your styles here. */
+    h1{
+        color:forestgreen;
+        font-family: cursive;
+        text-align: left;
+    }
+    h2{
+        color: lightcoral;
+        text-align: center;
+        font-family: cursive;
+    }
+        body{
+            background-color: antiquewhite;
+            font-family: arial;
+        }
+    
+      /* End of your styles */

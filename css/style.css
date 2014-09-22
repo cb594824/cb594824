@@ -1,0 +1,32 @@
+/*
+Christine Boylan
+
+Light Pink - #FFC0FF
+Aqua - #B1FFFF
+Purple - #E270FF
+*/
+
+
+a {
+    color: #FFC0FF;
+}
+h1 {
+    color: #FFC0FF;
+}
+
+
+.color1{
+    width: 200px;
+    height: 200px;
+    background-color: #e270ff;
+}
+.color2{
+    width: 200px;
+    height: 200px;
+    background-color: #B1FFFF;
+}
+.color3{
+    width: 200px;
+    height: 200px;
+    background-color: #FFC0FF;
+}
