@@ -11,10 +11,15 @@
     h3{
         font-family:veranda;
         text-align: left;
-        font-size:13px;
+        font-size:1px;
         }
     h4{
         font-family: veranda;
         text-align: center;
         font-size:13px;
+    margin{
+        margin: 20% auto;
+        padding: 20%;
+        background-color: light pink;
+    }
         
