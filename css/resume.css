@@ -1,5 +1,5 @@
     h1{
-        font-family: veranda;
+        font-family: font-family: 'Lobster', cursive;
         text-align: center;
         font-size: 16px;
     }
@@ -22,4 +22,6 @@
         padding: 20%;
         background-color: light pink;
     }
-        
+    body{
+        background-image: url('../images/logo_x_pattern/logo_x_pattern.png');
+        }
